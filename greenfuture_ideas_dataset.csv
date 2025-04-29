@@ -1,0 +1,16 @@
+employee_id,office_location,department,submission_date,idea_title,idea_category,votes,collaboration_status,approval_status,implementation_status,security_concern_flag
+1001,London,Research,2022-01-15,Solar-Powered Urban Gardens,Renewable Energy,78,Collaborative,Approved,Completed,0
+1002,Tokyo,Engineering,2022-01-18,Biodegradable Construction Materials,Sustainable Materials,45,Individual,Approved,In Progress,0
+1003,New York,Marketing,2022-01-20,Virtual Reality Environmental Education,Education,32,Collaborative,Pending,Not Started,0
+1004,Berlin,Product Development,2022-01-22,Water Filtration Using Mycelium Networks,Water Conservation,91,Collaborative,Approved,Completed,0
+1005,Singapore,Research,2022-01-25,AI-Driven Carbon Footprint Tracking,Carbon Reduction,67,Individual,Approved,In Progress,0
+1006,Paris,Engineering,2022-01-28,Microplastic Collection Drones,Ocean Conservation,53,Collaborative,Approved,In Progress,0
+1007,Sydney,Marketing,2022-02-01,Gamified Sustainability App,Education,39,Individual,Rejected,Not Started,0
+1008,Mumbai,Research,2022-02-05,Vertical Farming in Urban Slums,Food Security,87,Collaborative,Approved,In Progress,0
+1009,Toronto,Engineering,2022-02-08,Zero-Emission Public Transport System,Transportation,76,Collaborative,Approved,In Progress,0
+1010,Mexico City,Product Development,2022-02-12,Recycled Plastic Building Blocks,Waste Management,61,Individual,Pending,Not Started,1
+1011,London,Research,2022-02-15,Algae-Based Carbon Capture,Carbon Reduction,83,Collaborative,Approved,Completed,0
+1012,Beijing,Engineering,2022-02-18,Smart Energy Grid Optimization,Energy Efficiency,59,Individual,Approved,In Progress,0
+1013,Cape Town,Marketing,2022-02-22,Indigenous Knowledge Conservation Platform,Cultural Preservation,41,Collaborative,Pending,Not Started,0
+1014,Amsterdam,Product Development,2022-02-26,Floating Wetland Habitats,Biodiversity,73,Collaborative,Approved,In Progress,0
+1015,Rio de Janeiro,Research,2022-03-01,Rainforest Monitoring Drones,Conservation,88,Individual,Approved,Completed,0
